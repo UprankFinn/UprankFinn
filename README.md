@@ -14,5 +14,5 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealBauHD&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealBauHD&layout=compact&theme=radical" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=UprankFinn&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UprankFinn&layout=compact&theme=radical" alt="Most Used Languages" />
