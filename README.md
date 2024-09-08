@@ -10,7 +10,6 @@
   <li>Java</li>
   <li>HTML/CSS</li>
 </ul>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RealBauHD&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 <h2>📊 GitHub Stats</h2>
 
